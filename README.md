@@ -7,8 +7,7 @@ This is the official repository for the paper "*META4: Semantically-Aligned Gene
 
 The following videos show META4's predictions.
 
-*https://youtu.be/BMwS8p2UCGg*
+[Simulation 1](https://youtu.be/BMwS8p2UCGg)
+[Simulation 2](https://youtu.be/ecomhnit6XY)
+[Simulation 3](https://youtu.be/99ipLHhmJOM)
 
-*https://youtu.be/ecomhnit6XY*
-
-*https://youtu.be/99ipLHhmJOM*
