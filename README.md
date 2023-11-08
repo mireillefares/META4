@@ -17,3 +17,6 @@ Bibtex:
 
 The following videos show META4's predictions:  [Simulation 1](https://youtu.be/BMwS8p2UCGg), [Simulation 2](https://youtu.be/ecomhnit6XY), [Simulation 3](https://youtu.be/99ipLHhmJOM)
 
+## Other cool stuff
+[BERTIS](https://github.com/mireillefares/BERTIS/blob/main/README.md)
+
