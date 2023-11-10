@@ -1,7 +1,9 @@
 # META4: Semantically-Aligned Generation of metaphoric gestures using self-supervised text and speech representations
 ## Authors: Mireille Fares, Catherine Pelachaud, Nicolas Obin
 
-This is the official repository for the paper "*META4: Semantically-Aligned Generation of metaphoric gestures using self-supervised text and speech representations*". It contains the training and testing code of META4.
+This is the official repository for the paper ["*META4: Semantically-Aligned Generation of metaphoric gestures using self-supervised text and speech representations*"](https://arxiv.org/abs/2311.05481). It contains the training and testing code of META4.
+
+If you found this work helpful, please consider citing our paper.
 
 Bibtex:
 ```ruby
